@@ -1,5 +1,7 @@
 # Die Bedeutung von Lieferanten im Kontext der modernen Beschaffung am Beispiel
 
+![Logistik](01.jpg)
+
 ## Einführung
 
 Die vorliegende Arbeit soll die Grundzüge der Bedeutung von Lieferanten im
