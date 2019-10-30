@@ -181,3 +181,26 @@ Lieferanten aufgebaut werden soll, um größtmöglichen Erfolg zu erzielen. Die
 vorangestellte Arbeit hat verdeutlicht, dass es sich um eine aktuelle und für die
 Zukunft bedeutsame Thematik handelt, die viele Möglichkeiten zur weiteren
 Forschung bietet.
+
+## Literaturverzeichnis
+
+Bilder:
+[unsplash](https://unsplash.com/)
+
+Fröhlich, E. (2014). Zum konzeptuellen Rahmen eines Lieferantenwerts. Identifikation relevanter Bewertungdimensionen. Controlling - Zeitschrift für Erfolgsorientierte Unternehmensbesteuerung. 26 (1), 11-18
+
+Janker, C. (2008). Multivariate Lieferantenbewertung. Empirisch gestützt Konzeption eines anforderungsgerechten Bewertunssystems. (2. Auflage). Wiesbaden: Gabler.
+
+Koether, R. (2018). Distributionslogisitk. Effiziente Absicherung der Lieferfähigkeit (3. Auflage). Wiesbaden: Springer Gabler.
+
+Kummer, S., Grün, O. und Jammernegg, W. (2009). Grundzüge der Beschaffung, Produktion und Logistik (2., aktualisierte Auflage). München: Pearson Studium.
+
+Lorenzen, K. und Krokowski, W. (2018). Einkauf. Wiesbaden: Springer Gabler.
+
+Hofbauer, G., Mashhour, T. und Fischer, M. (2009). Lieferantenmanagement. Die wertorientierte Gestaltung der Lieferbeziehung. München: Oldenbourg.
+
+Müller, J., Veile, J. und Voigt, K-I. (2019) Lieferantenintegration im Kontext von
+Industrie 4.0. Aktuelle Anforderungen an Lieferanten, Herausforderungen und
+mögliche Handlungsoptionen. In Wolfgang Stölzle (Hrsg.), Supply Management
+Research. Aktuelle Forschungsergebnisse 2019 (S. 171 - 183). Wiesbaden: Springer
+Gabler.
