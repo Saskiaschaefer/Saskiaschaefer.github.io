@@ -14,9 +14,9 @@ Auseinandersetzung wird vorab kurz der Wandel der Beschaffung näher
 betrachtet, um anschließend die Position der Lieferanten in der
 Wertschöpfungskette bzw. im Unternehmen nachvollziehen zu können.
 
-### Vom Kostenoptimierer zur Innovationskraft
+**Vom Kostenoptimierer zur Innovationskraft**
 
-**„Reich wird man nicht durch das, was man verdient, sondern durch das, was man nicht ausgibt.“** (Henry Ford, zitiert nach Lorenzens und Krokowski, 2018, S. 13)
+„_Reich wird man nicht durch das, was man verdient, sondern durch das, was man nicht ausgibt._“ (Henry Ford, zitiert nach Lorenzens und Krokowski, 2018, S. 13)
 
 In von Innovationen geprägten Unternehmen gilt die Bedeutung des
 modernen Einkaufs heutzutage als unumstritten. Damit der Wandel zum
